@@ -33,7 +33,7 @@
     "coveralls": "^3.0.2",
     "fs-extra-promise": "^1.0.1",
     "istanbul": "^1.0.0-alpha",
-    "mocha": "^5.2.0",
+    "mocha": "^10.2.0",
     "mocha-lcov-reporter": "^1.2.0"
   }
 }
